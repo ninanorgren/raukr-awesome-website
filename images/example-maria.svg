@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Maria avatar">
+  <rect width="200" height="200" fill="#2a7f9e"/>
+  <circle cx="100" cy="78" r="40" fill="#f4f6f7"/>
+  <path d="M40 180c0-33 27-54 60-54s60 21 60 54z" fill="#f4f6f7"/>
+  <text x="100" y="92" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#2a7f9e" text-anchor="middle">M</text>
+</svg>

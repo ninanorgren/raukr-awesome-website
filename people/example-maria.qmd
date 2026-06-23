@@ -2,7 +2,7 @@
 title: "Maria Example"
 subtitle: "PhD in Evolutionary Genomics 🧬"
 description: "Studies why some fish are weirder than others. Fuelled by oat lattes."
-image: https://api.dicebear.com/9.x/bottts/svg?seed=Maria
+image: ../images/example-maria.svg
 about:
   template: trestles
   links:

@@ -21,7 +21,11 @@ pull request merged. 🎉
 ## How to add yourself
 1. Copy one of the example files in the `people/` folder (e.g. `example-maria.qmd`).
 2. Rename it to your own name, e.g. `people/your-name.qmd`.
-3. Fill in your details and open a pull request.
+3. Fill in your details. For your picture you can either:
+   - **use your own image** — drop it in the `images/` folder and set
+     `image: ../images/your-name.jpg` (see `example-maria.qmd`), or
+   - **use an auto-generated avatar URL** (see `example-johan.qmd`).
+4. Open a pull request.
 
 Because you're adding a **brand-new file**, this almost never causes a merge conflict —
 the gallery below is generated automatically. ✨
