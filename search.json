@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "",
+    "text": "This website is co-created by the entire RaukR cohort — one fork, one branch, one pull request at a time. Every page you see was added by a student practicing their git powers. ⚡"
+  },
+  {
+    "objectID": "index.html#your-mission",
+    "href": "index.html#your-mission",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🎯 Your mission",
+    "text": "🎯 Your mission\nBy the end of the workshop you should have:\n\nForked this repository to your own GitHub account.\nAdded yourself to the Participants gallery.\nMade at least one contribution to a shared page (and survived the resulting merge conflict 😈).\nOpened a pull request back to this repo and gotten it merged.\n\n\n\n\n\n\n\nTipBrand new? Start here\n\n\n\nHead straight to the Contributing guide. It walks you through fork → clone → branch → commit → push → PR, step by step."
+  },
+  {
+    "objectID": "index.html#whats-on-the-site",
+    "href": "index.html#whats-on-the-site",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🗺️ What’s on the site",
+    "text": "🗺️ What’s on the site\n\n\n\nPage\nWhat you do there\nConflict risk\n\n\n\n\n👋 Participants\nAdd your own profile card (one new file)\n🟢 Low\n\n\n🐛 Bug Horror Stories\nAdd your worst bug ever\n🔴 High\n\n\n☕ Best Fika\nRate the best fika on Gotland\n🔴 High\n\n\n✨ R One-Liners\nShare a favourite (or cursed) one-liner\n🔴 High\n\n\n📚 Recommendations\nRecommend a paper, book or podcast\n🔴 High\n\n\n\nThe 🟢 low-risk page gives you a clean, conflict-free PR to build confidence. The 🔴 high-risk pages are deliberately set up so that everyone edits the same file — that’s where you’ll learn to git pull, rebase, and resolve conflicts like a pro."
+  },
+  {
+    "objectID": "index.html#the-whole-point",
+    "href": "index.html#the-whole-point",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🤔 The whole point",
+    "text": "🤔 The whole point\n\nThe content here is meant to be quick and fun — a sentence or two each. The real learning is in the git workflow, not in writing essays. Keep your entries short, keep your commits frequent, and don’t be afraid to break things. That’s what forks are for. 🚀"
+  },
+  {
+    "objectID": "pages/worst-bug.html",
+    "href": "pages/worst-bug.html",
+    "title": "🐛 Bug Horror Stories",
+    "section": "",
+    "text": "Every coder has a bug that haunts them. Add yours to the table below — keep it to one line, the more painful the better."
+  },
+  {
+    "objectID": "pages/worst-bug.html#the-hall-of-pain",
+    "href": "pages/worst-bug.html#the-hall-of-pain",
+    "title": "🐛 Bug Horror Stories",
+    "section": "The Hall of Pain",
+    "text": "The Hall of Pain\n\n\n\nWho\nThe bug\nTime lost\n\n\n\n\nMaria\nTwo variables: data and Data. Two days.\n2 days\n\n\nJohan\nTypo on line 4 of a 14-hour script.\n14 hours\n\n\n(your name)\n(your worst bug — one line)\n(how long?)"
+  },
+  {
+    "objectID": "pages/fika.html",
+    "href": "pages/fika.html",
+    "title": "☕ Best Fika",
+    "section": "",
+    "text": "No RaukR is complete without fika. Rate the best coffee, kanelbulle, or cake spot — on Gotland or back home. One line each, stars out of five. ⭐"
+  },
+  {
+    "objectID": "pages/fika.html#the-fika-leaderboard",
+    "href": "pages/fika.html#the-fika-leaderboard",
+    "title": "☕ Best Fika",
+    "section": "The Fika Leaderboard",
+    "text": "The Fika Leaderboard\n\n\n\nWho\nPlace\nWhat to order\nRating\n\n\n\n\nMaria\nVisby old town café\nSaffron bun\n⭐⭐⭐⭐⭐\n\n\nJohan\nThe department kitchen\nWhatever is free\n⭐⭐\n\n\n(your name)\n(where?)\n(what?)\n(⭐?)"
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "👋 Participants",
+    "section": "",
+    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details and open a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/example-johan.html",
+    "href": "people/example-johan.html",
+    "title": "Johan Example",
+    "section": "",
+    "text": "I model forest carbon from remote-sensing data. My R sessions have more packages loaded than I have functioning brain cells before coffee."
+  },
+  {
+    "objectID": "people/example-johan.html#about-me",
+    "href": "people/example-johan.html#about-me",
+    "title": "Johan Example",
+    "section": "",
+    "text": "I model forest carbon from remote-sensing data. My R sessions have more packages loaded than I have functioning brain cells before coffee."
+  },
+  {
+    "objectID": "people/example-johan.html#a-fun-fact",
+    "href": "people/example-johan.html#a-fun-fact",
+    "title": "Johan Example",
+    "section": "A fun fact",
+    "text": "A fun fact\nMy record for “longest-running script that turned out to have a typo on line 4” is 14 hours. ⏳"
+  },
+  {
+    "objectID": "people/example-johan.html#my-favourite-or-most-cursed-plot",
+    "href": "people/example-johan.html#my-favourite-or-most-cursed-plot",
+    "title": "Johan Example",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nA ggplot with 11 facets, 3 legends, and a colour scale only a raccoon could love."
+  },
+  {
+    "objectID": "people/example-maria.html",
+    "href": "people/example-maria.html",
+    "title": "Maria Example",
+    "section": "",
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+  },
+  {
+    "objectID": "people/example-maria.html#about-me",
+    "href": "people/example-maria.html#about-me",
+    "title": "Maria Example",
+    "section": "",
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+  },
+  {
+    "objectID": "people/example-maria.html#a-fun-fact",
+    "href": "people/example-maria.html#a-fun-fact",
+    "title": "Maria Example",
+    "section": "A fun fact",
+    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
+  },
+  {
+    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "title": "Maria Example",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing to the RaukR Awesome Website 🪨",
+    "section": "",
+    "text": "Welcome! This repo exists so you can practise the GitHub workflow by contributing to a real, live website. Follow the steps below. If you get stuck, that’s expected — getting unstuck is the workshop.\n\n💡 The golden rule: keep your content short and fun. The point is the git workflow, not writing essays.\n\n\n\n\n\n\nClick Fork (top-right on GitHub). You now have your own copy at https://github.com/YOUR-USERNAME/raukr-awesome-website.\n\n\n\ngit clone https://github.com/YOUR-USERNAME/raukr-awesome-website.git\ncd raukr-awesome-website\n\n\n\ngit remote add upstream https://github.com/ninanorgren/raukr-awesome-website.git\nYou now have two remotes: origin (your fork) and upstream (the class repo).\n\n\n\nNever work directly on main. Make a branch named after what you’re doing:\ngit switch -c add-my-profile\n\n\n\nPick a task (see below) and edit the files. Save.\n\n\n\ngit add .\ngit commit -m \"Add my profile to participants\"\n\n\n\nBefore you push, grab everyone else’s changes:\ngit pull upstream main\nIf you edited a shared page, this is where a merge conflict may appear. 😈 See Resolving merge conflicts below.\n\n\n\ngit push origin add-my-profile\n\n\n\nGo to your fork on GitHub. Click Compare & pull request. Make sure it’s pointing at ninanorgren/raukr-awesome-website main. Write a short description and submit. 🎉\n\n\n\nNina (or a classmate) reviews your PR. If changes are requested, edit, commit, and push again to the same branch — the PR updates automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\nTask\nFile(s)\nDifficulty\n\n\n\n\nAdd your profile\nnew file in people/ (copy example-maria.qmd)\n🟢 Clean PR\n\n\nAdd a bug horror story\npages/worst-bug.qmd\n🔴 Conflict likely\n\n\nRate a fika spot\npages/fika.qmd\n🔴 Conflict likely\n\n\nShare an R one-liner\npages/one-liners.qmd\n🔴 Conflict likely\n\n\nRecommend something\npages/recommendations.qmd\n🔴 Conflict likely\n\n\n\nStart with your profile for an easy win, then try a shared page to meet your first merge conflict.\n\n\n\n\nWhen git pull upstream main reports a conflict, Git marks the clashing lines like this:\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\n| Your row |\n=======\n| A classmate's row |\n&gt;&gt;&gt;&gt;&gt;&gt;&gt; upstream/main\nTo resolve it: open the file, delete the &lt;&lt;&lt;&lt;&lt;&lt;&lt;, =======, and &gt;&gt;&gt;&gt;&gt;&gt;&gt; marker lines, and arrange the content so both rows are kept (this site is additive — we almost never want to throw anyone’s entry away). Then:\ngit add the-file-you-fixed.qmd\ngit commit            # finishes the merge\ngit push origin add-my-profile\nThat’s it — you’ve resolved a merge conflict. 🏆\n\n\n\n\nYou don’t need this to contribute — you only edit Markdown — but if you have Quarto installed:\nquarto preview\nOtherwise, just open your PR: the site rebuilds and deploys automatically once your change is merged."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#the-full-workflow-step-by-step",
+    "href": "CONTRIBUTING.html#the-full-workflow-step-by-step",
+    "title": "Contributing to the RaukR Awesome Website 🪨",
+    "section": "",
+    "text": "Click Fork (top-right on GitHub). You now have your own copy at https://github.com/YOUR-USERNAME/raukr-awesome-website.\n\n\n\ngit clone https://github.com/YOUR-USERNAME/raukr-awesome-website.git\ncd raukr-awesome-website\n\n\n\ngit remote add upstream https://github.com/ninanorgren/raukr-awesome-website.git\nYou now have two remotes: origin (your fork) and upstream (the class repo).\n\n\n\nNever work directly on main. Make a branch named after what you’re doing:\ngit switch -c add-my-profile\n\n\n\nPick a task (see below) and edit the files. Save.\n\n\n\ngit add .\ngit commit -m \"Add my profile to participants\"\n\n\n\nBefore you push, grab everyone else’s changes:\ngit pull upstream main\nIf you edited a shared page, this is where a merge conflict may appear. 😈 See Resolving merge conflicts below.\n\n\n\ngit push origin add-my-profile\n\n\n\nGo to your fork on GitHub. Click Compare & pull request. Make sure it’s pointing at ninanorgren/raukr-awesome-website main. Write a short description and submit. 🎉\n\n\n\nNina (or a classmate) reviews your PR. If changes are requested, edit, commit, and push again to the same branch — the PR updates automatically."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#tasks-you-can-do",
+    "href": "CONTRIBUTING.html#tasks-you-can-do",
+    "title": "Contributing to the RaukR Awesome Website 🪨",
+    "section": "",
+    "text": "Task\nFile(s)\nDifficulty\n\n\n\n\nAdd your profile\nnew file in people/ (copy example-maria.qmd)\n🟢 Clean PR\n\n\nAdd a bug horror story\npages/worst-bug.qmd\n🔴 Conflict likely\n\n\nRate a fika spot\npages/fika.qmd\n🔴 Conflict likely\n\n\nShare an R one-liner\npages/one-liners.qmd\n🔴 Conflict likely\n\n\nRecommend something\npages/recommendations.qmd\n🔴 Conflict likely\n\n\n\nStart with your profile for an easy win, then try a shared page to meet your first merge conflict."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#resolving-merge-conflicts",
+    "href": "CONTRIBUTING.html#resolving-merge-conflicts",
+    "title": "Contributing to the RaukR Awesome Website 🪨",
+    "section": "",
+    "text": "When git pull upstream main reports a conflict, Git marks the clashing lines like this:\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\n| Your row |\n=======\n| A classmate's row |\n&gt;&gt;&gt;&gt;&gt;&gt;&gt; upstream/main\nTo resolve it: open the file, delete the &lt;&lt;&lt;&lt;&lt;&lt;&lt;, =======, and &gt;&gt;&gt;&gt;&gt;&gt;&gt; marker lines, and arrange the content so both rows are kept (this site is additive — we almost never want to throw anyone’s entry away). Then:\ngit add the-file-you-fixed.qmd\ngit commit            # finishes the merge\ngit push origin add-my-profile\nThat’s it — you’ve resolved a merge conflict. 🏆"
+  },
+  {
+    "objectID": "CONTRIBUTING.html#previewing-the-site-locally-optional",
+    "href": "CONTRIBUTING.html#previewing-the-site-locally-optional",
+    "title": "Contributing to the RaukR Awesome Website 🪨",
+    "section": "",
+    "text": "You don’t need this to contribute — you only edit Markdown — but if you have Quarto installed:\nquarto preview\nOtherwise, just open your PR: the site rebuilds and deploys automatically once your change is merged."
+  },
+  {
+    "objectID": "pages/recommendations.html",
+    "href": "pages/recommendations.html",
+    "title": "📚 Recommendations",
+    "section": "",
+    "text": "Recommend one thing worth a PhD student’s time: a paper, a book, a podcast, a package, a blog. One line on why it’s worth it. Add to the bottom of the list."
+  },
+  {
+    "objectID": "pages/recommendations.html#the-list",
+    "href": "pages/recommendations.html#the-list",
+    "title": "📚 Recommendations",
+    "section": "The List",
+    "text": "The List\n\n📄 Paper — “Tidy Data” (Wickham, 2014) — Maria — will change how you store data forever.\n🎧 Podcast — Not So Standard Deviations — Johan — stats chat that doesn’t put you to sleep.\n(type: paper / book / podcast / package) — title — (your name) — (why in one line)"
+  },
+  {
+    "objectID": "pages/one-liners.html",
+    "href": "pages/one-liners.html",
+    "title": "✨ R One-Liners",
+    "section": "",
+    "text": "Share a favourite, clever, or gloriously cursed R one-liner. Bonus points if nobody else can read it. Add yours as a new entry at the bottom."
+  },
+  {
+    "objectID": "pages/one-liners.html#the-collection",
+    "href": "pages/one-liners.html#the-collection",
+    "title": "✨ R One-Liners",
+    "section": "The Collection",
+    "text": "The Collection\nMaria — count rows per group without dplyr:\ntable(df$species)\nJohan — the entire tidyverse in one breath:\ndf |&gt; group_by(g) |&gt; summarise(m = mean(x), .groups = \"drop\")\n(your name) — what does it do?\n# your one-liner here"
+  }
+]
