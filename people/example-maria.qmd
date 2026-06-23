@@ -1,0 +1,26 @@
+---
+title: "Maria Example"
+subtitle: "PhD in Evolutionary Genomics 🧬"
+description: "Studies why some fish are weirder than others. Fuelled by oat lattes."
+image: https://api.dicebear.com/9.x/bottts/svg?seed=Maria
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I'm a second-year PhD student trying to figure out the genetics of fin shape in
+sticklebacks. I came to RaukR to finally stop emailing myself `analysis_final_v3_REAL.R`.
+
+## A fun fact
+
+I once spent two days debugging a script before realising I had two objects called
+`data` and `Data`. 🙃
+
+## My favourite (or most cursed) plot
+
+A volcano plot so red it looked like a crime scene. Reviewers loved it.

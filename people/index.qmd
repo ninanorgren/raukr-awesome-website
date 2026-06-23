@@ -1,0 +1,28 @@
+---
+title: "👋 Participants"
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 3
+  sort: "title"
+  fields: [title, subtitle, description, image]
+  filter-ui: true
+  sort-ui: false
+  exclude:
+    title: "👋 Participants"
+toc: false
+---
+
+Welcome to the RaukR 2026 cohort! Each card below is **one `.qmd` file** added by a
+student. Adding yourself here is the easiest, conflict-free way to get your first
+pull request merged. 🎉
+
+::: {.callout-note}
+## How to add yourself
+1. Copy one of the example files in the `people/` folder (e.g. `example-maria.qmd`).
+2. Rename it to your own name, e.g. `people/your-name.qmd`.
+3. Fill in your details and open a pull request.
+
+Because you're adding a **brand-new file**, this almost never causes a merge conflict —
+the gallery below is generated automatically. ✨
+:::

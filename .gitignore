@@ -1,0 +1,17 @@
+# Quarto
+/.quarto/
+/_site/
+
+# Quarto freezer (we don't execute code, but just in case)
+/_freeze/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.Rproj.user/
+.Rhistory
+.RData
+.vscode/
+
+**/*.quarto_ipynb

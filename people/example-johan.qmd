@@ -1,0 +1,26 @@
+---
+title: "Johan Example"
+subtitle: "PhD in Computational Ecology 🌲"
+description: "Counts trees with satellites. Strong opinions about |> vs %>%."
+image: https://api.dicebear.com/9.x/bottts/svg?seed=Johan
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I model forest carbon from remote-sensing data. My R sessions have more packages
+loaded than I have functioning brain cells before coffee.
+
+## A fun fact
+
+My record for "longest-running script that turned out to have a typo on line 4" is
+14 hours. ⏳
+
+## My favourite (or most cursed) plot
+
+A `ggplot` with 11 facets, 3 legends, and a colour scale only a raccoon could love.

@@ -1,0 +1,29 @@
+---
+title: "✨ R One-Liners"
+---
+
+Share a favourite, clever, or gloriously cursed R one-liner. Bonus points if nobody
+else can read it. Add yours as a new entry at the **bottom**.
+
+::: {.callout-warning}
+## ⚠️ Conflict zone
+Shared file = likely merge conflict. `git pull` before you edit, append your snippet
+at the end, and practise resolving any clash. 🧗
+:::
+
+## The Collection
+
+**Maria** — count rows per group without `dplyr`:
+```r
+table(df$species)
+```
+
+**Johan** — the entire tidyverse in one breath:
+```r
+df |> group_by(g) |> summarise(m = mean(x), .groups = "drop")
+```
+
+**(your name)** — *what does it do?*
+```r
+# your one-liner here
+```

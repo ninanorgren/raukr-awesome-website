@@ -1,0 +1,20 @@
+---
+title: "☕ Best Fika"
+---
+
+No RaukR is complete without fika. Rate the best coffee, kanelbulle, or cake spot —
+on Gotland or back home. **One line each**, stars out of five. ⭐
+
+::: {.callout-warning}
+## ⚠️ Conflict zone
+This is a shared file — expect merge conflicts! `git pull` first, add your row to the
+**bottom**, and resolve any clash by keeping *both* your row and everyone else's. 🤝
+:::
+
+## The Fika Leaderboard
+
+| Who | Place | What to order | Rating |
+|-----|-------|---------------|:------:|
+| Maria | Visby old town café | Saffron bun | ⭐⭐⭐⭐⭐ |
+| Johan | The department kitchen | Whatever is free | ⭐⭐ |
+| *(your name)* | *(where?)* | *(what?)* | *(⭐?)* |

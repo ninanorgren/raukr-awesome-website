@@ -1,0 +1,22 @@
+---
+title: "🐛 Bug Horror Stories"
+---
+
+Every coder has a bug that haunts them. Add yours to the table below — keep it to
+**one line**, the more painful the better.
+
+::: {.callout-warning}
+## ⚠️ Conflict zone
+Everyone edits *this same file*, so you'll probably hit a **merge conflict** when you
+try to push. That's intentional! Before you start, run `git pull` to grab the latest
+version, add your row to the **bottom** of the table, and if a conflict still happens,
+that's your chance to practise resolving it. 💪
+:::
+
+## The Hall of Pain
+
+| Who | The bug | Time lost |
+|-----|---------|:---------:|
+| Maria | Two variables: `data` and `Data`. Two days. | 2 days |
+| Johan | Typo on line 4 of a 14-hour script. | 14 hours |
+| *(your name)* | *(your worst bug — one line)* | *(how long?)* |

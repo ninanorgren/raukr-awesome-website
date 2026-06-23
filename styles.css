@@ -1,0 +1,35 @@
+/* RaukR Awesome Website — light custom styling */
+
+:root {
+  --raukr-stone: #5b6b73;
+  --raukr-sea:   #2a7f9e;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+/* Make the participant gallery cards a little friendlier */
+.quarto-grid-item {
+  border-radius: 12px;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+.quarto-grid-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+.quarto-grid-item img {
+  background: #f4f6f7;
+  padding: 8px;
+}
+
+/* Tables: a touch more breathing room */
+table {
+  margin-block: 1rem;
+}
+thead th {
+  background: var(--raukr-sea);
+  color: #fff;
+}

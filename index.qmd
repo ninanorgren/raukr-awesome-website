@@ -1,0 +1,45 @@
+---
+title: "Welcome to the RaukR 2026 Awesome Website 🪨"
+toc: false
+---
+
+This website is **co-created by the entire RaukR cohort** — one fork, one branch,
+one pull request at a time. Every page you see was added by a student practicing
+their git powers. ⚡
+
+## 🎯 Your mission
+
+By the end of the workshop you should have:
+
+1. **Forked** this repository to your own GitHub account.
+2. **Added yourself** to the [Participants](people/index.qmd) gallery.
+3. Made at least one contribution to a **shared page** (and survived the resulting
+   merge conflict 😈).
+4. Opened a **pull request** back to this repo and gotten it merged.
+
+::: {.callout-tip}
+## Brand new? Start here
+Head straight to the [**Contributing guide**](https://github.com/ninanorgren/raukr-awesome-website/blob/main/CONTRIBUTING.md).
+It walks you through fork → clone → branch → commit → push → PR, step by step.
+:::
+
+## 🗺️ What's on the site
+
+| Page | What you do there | Conflict risk |
+|------|-------------------|:---:|
+| [👋 Participants](people/index.qmd) | Add your own profile card (one new file) | 🟢 Low |
+| [🐛 Bug Horror Stories](pages/worst-bug.qmd) | Add your worst bug ever | 🔴 High |
+| [☕ Best Fika](pages/fika.qmd) | Rate the best fika on Gotland | 🔴 High |
+| [✨ R One-Liners](pages/one-liners.qmd) | Share a favourite (or cursed) one-liner | 🔴 High |
+| [📚 Recommendations](pages/recommendations.qmd) | Recommend a paper, book or podcast | 🔴 High |
+
+The **🟢 low-risk** page gives you a clean, conflict-free PR to build confidence.
+The **🔴 high-risk** pages are *deliberately* set up so that everyone edits the same
+file — that's where you'll learn to `git pull`, rebase, and resolve conflicts like a pro.
+
+## 🤔 The whole point
+
+> The content here is meant to be quick and fun — a sentence or two each. The real
+> learning is in the **git workflow**, not in writing essays. Keep your entries short,
+> keep your commits frequent, and don't be afraid to break things. That's what forks
+> are for. 🚀

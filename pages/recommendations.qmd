@@ -1,0 +1,18 @@
+---
+title: "📚 Recommendations"
+---
+
+Recommend one thing worth a PhD student's time: a paper, a book, a podcast, a
+package, a blog. **One line on why** it's worth it. Add to the **bottom** of the list.
+
+::: {.callout-warning}
+## ⚠️ Conflict zone
+Everyone edits this file — merge conflicts ahoy! `git pull` first, append your entry,
+keep both sides when resolving. 📖
+:::
+
+## The List
+
+- 📄 **Paper** — *"Tidy Data" (Wickham, 2014)* — Maria — will change how you store data forever.
+- 🎧 **Podcast** — *Not So Standard Deviations* — Johan — stats chat that doesn't put you to sleep.
+- *(type: paper / book / podcast / package)* — ***title*** — *(your name)* — *(why in one line)*
