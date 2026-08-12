@@ -256,7 +256,7 @@
     "href": "pages/one-liners.html#the-collection",
     "title": "✨ R One-Liners",
     "section": "The Collection",
-    "text": "The Collection\nMaria — count rows per group without dplyr:\ntable(df$species)\nJohan — the entire tidyverse in one breath:\ndf |&gt; group_by(g) |&gt; summarise(m = mean(x), .groups = \"drop\")\n(your name) — what does it do?\n# your one-liner here"
+    "text": "The Collection\nMaria — count rows per group without dplyr:\ntable(df$species)\nJohan — the entire tidyverse in one breath:\ndf |&gt; group_by(g) |&gt; summarise(m = mean(x), .groups = \"drop\")\nMohito — Prints my name\nprint(rev(rev(rev(rev(rev(c(\"Jag\" ,\"heter\", \"Mohit\")))))))"
   },
   {
     "objectID": "pages/recommendations.html",
