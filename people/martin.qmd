@@ -1,7 +1,7 @@
 ---
-title: "Maria Example"
-subtitle: "PhD in Evolutionary Genomics 🧬"
-description: "Studies why some fish are weirder than others. Fuelled by oat lattes."
+title: "Martín Suárez"
+subtitle: "PhD in mucosal immunology 🧬"
+description: "Trying to understand what's going bad in the gut of mice and humans (unsuccessfully)"
 image: ../images/martin.jpg
 about:
   template: trestles
