@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "pages/fika.html",
-    "href": "pages/fika.html",
-    "title": "☕ Best Fika",
-    "section": "",
-    "text": "No RaukR is complete without fika. Rate the best coffee, kanelbulle, or cake spot — on Gotland or back home. One line each, stars out of five. ⭐"
-  },
-  {
-    "objectID": "pages/fika.html#the-fika-leaderboard",
-    "href": "pages/fika.html#the-fika-leaderboard",
-    "title": "☕ Best Fika",
-    "section": "The Fika Leaderboard",
-    "text": "The Fika Leaderboard\n\n\n\n\n\n\n\n\n\nWho\nPlace\nWhat to order\nRating\n\n\n\n\nMaria\nVisby old town café\nSaffron bun\n⭐⭐⭐⭐⭐\n\n\nJohan\nThe department kitchen\nWhatever is free\n⭐⭐\n\n\nAle\nLillebrors bageri\nCinnamon roll\n⭐⭐⭐⭐\n\n\n(your name)\n(where?)\n(what?)\n(⭐?)\n\n\nMartín\nKällarbyn (Stockholm)\nKladdkaka\n⭐⭐⭐⭐\n\n\nDavid\nPlease show me\nGood croisants\nNo⭐\n\n\nMohit\nThat one Pizzeria in Hisingen\nKebab pizza with pommes, jalapeno and piri piri powder(Pizza is valid Fika don’t @ me\n⭐⭐⭐⭐⭐⭐⭐"
-  },
-  {
-    "objectID": "pages/hello.html",
-    "href": "pages/hello.html",
-    "title": "Hello",
-    "section": "",
-    "text": "Hello! This is a simple page."
-  },
-  {
-    "objectID": "pages/worst-bug.html",
-    "href": "pages/worst-bug.html",
-    "title": "🐛 Bug Horror Stories",
-    "section": "",
-    "text": "Every coder has a bug that haunts them. Add yours to the table below — keep it to one line, the more painful the better."
-  },
-  {
-    "objectID": "pages/worst-bug.html#the-hall-of-pain",
-    "href": "pages/worst-bug.html#the-hall-of-pain",
-    "title": "🐛 Bug Horror Stories",
-    "section": "The Hall of Pain",
-    "text": "The Hall of Pain\n\n\n\n\n\n\n\n\nWho\nThe bug\nTime lost\n\n\n\n\nMaria\nTwo variables: data and Data. Two days.\n2 days\n\n\nJohan\nTypo on line 4 of a 14-hour script.\n14 hours\n\n\nAle\nTypo on paired fastq file names during mapping. I had two fastq.R1\n24h hours\n\n\n(your name)\n(your worst bug — one line)\n(how long?)\n\n\nMohit\nvibe destroyed the vibe created work\ndays…"
-  },
-  {
     "objectID": "people/example-johan.html",
     "href": "people/example-johan.html",
     "title": "Johan Example",
@@ -63,60 +28,11 @@
     "text": "My favourite (or most cursed) plot\nA ggplot with 11 facets, 3 legends, and a colour scale only a raccoon could love."
   },
   {
-    "objectID": "people/sebastian_d.html",
-    "href": "people/sebastian_d.html",
-    "title": "Sebastian Di Lorenzo",
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "👋 Participants",
     "section": "",
-    "text": "I just graduated from school. Promise!"
-  },
-  {
-    "objectID": "people/sebastian_d.html#about-me",
-    "href": "people/sebastian_d.html#about-me",
-    "title": "Sebastian Di Lorenzo",
-    "section": "",
-    "text": "I just graduated from school. Promise!"
-  },
-  {
-    "objectID": "people/sebastian_d.html#a-fun-fact",
-    "href": "people/sebastian_d.html#a-fun-fact",
-    "title": "Sebastian Di Lorenzo",
-    "section": "A fun fact",
-    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃\nHere is a list of animal group names (collective nouns):\n\n\n\nAnimal\nGroup Name\n\n\n\n\nOwls\nParliament\n\n\nCrows\nMurder\n\n\nFerrets\nBusiness\n\n\nFlamingos\nFlamboyance\n\n\nZebras\nDazzle\n\n\nRavens\nUnkindness\n\n\nRhinoceroses\nCrash\n\n\nLions\nPride\n\n\nGiraffes\nTower\n\n\nHippopotamuses\nBloat\n\n\nLemurs\nConspiracy\n\n\nKangaroos\nMob\n\n\nJellyfish\nSmack\n\n\nOtters\nRomp\n\n\nPandas\nEmbarrassment\n\n\nPorcupines\nPrickle\n\n\nFrogs\nArmy\n\n\nSharks\nShiver\n\n\nSquirrels\nScurry\n\n\nWhales\nPod\n\n\nWolves\nPack\n\n\nAlligators\nCongregation"
-  },
-  {
-    "objectID": "people/sebastian_d.html#my-favourite-or-most-cursed-plot",
-    "href": "people/sebastian_d.html#my-favourite-or-most-cursed-plot",
-    "title": "Sebastian Di Lorenzo",
-    "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nTo take over the world!!!"
-  },
-  {
-    "objectID": "people/ale-ulm.html",
-    "href": "people/ale-ulm.html",
-    "title": "Ale U.",
-    "section": "",
-    "text": "I like spending time with friends."
-  },
-  {
-    "objectID": "people/ale-ulm.html#about-me",
-    "href": "people/ale-ulm.html#about-me",
-    "title": "Ale U.",
-    "section": "",
-    "text": "I like spending time with friends."
-  },
-  {
-    "objectID": "people/ale-ulm.html#a-fun-fact",
-    "href": "people/ale-ulm.html#a-fun-fact",
-    "title": "Ale U.",
-    "section": "A fun fact",
-    "text": "A fun fact\nI listen to random playlist like: https://www.youtube.com/watch?v=dzCuwjHFd7M&list=RDdzCuwjHFd7M&start_radio=1&t=3353s"
-  },
-  {
-    "objectID": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
-    "href": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
-    "title": "Ale U.",
-    "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nHave you ever heard about a sankey plot (not a fan)"
+    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgne\n\n\nPhD in Gene Technology 🧬\n\n\nResearching the effect of endocrine disrupting chemicals on health.\n\n\n\n\n\n\n\n\n\n\n\n\nAle U.\n\n\nPhD in Immunology\n\n\nI study bugs in swiss rolls.\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Hidalgo\n\n\nPhD in stem cell biology\n\n\nWorks on epigenetics of BM-MSCs\n\n\n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMarcin Kierczak\n\n\nInnocent bystander\n\n\nMedieval mindset is always with me\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMartín Suárez\n\n\nPhD in mucosal immunology 🧬\n\n\nTrying to understand what’s going bad in the gut of mice and humans (unsuccessfully)\n\n\n\n\n\n\n\n\n\n\n\n\nMedieval Coder\n\n\ncuriosity is key 🧬\n\n\nHappy to be here\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/medievalcoder.html",
@@ -147,32 +63,81 @@
     "text": "My favourite (or most cursed) plot\nI spent at least 2 full days picking out the colors for it, still use the color combo for other graphs"
   },
   {
-    "objectID": "people/David-info.html",
-    "href": "people/David-info.html",
-    "title": "David Hidalgo",
+    "objectID": "people/martin.html",
+    "href": "people/martin.html",
+    "title": "Martín Suárez",
     "section": "",
-    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+    "text": "I’m a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)"
   },
   {
-    "objectID": "people/David-info.html#about-me",
-    "href": "people/David-info.html#about-me",
-    "title": "David Hidalgo",
+    "objectID": "people/martin.html#about-me",
+    "href": "people/martin.html#about-me",
+    "title": "Martín Suárez",
     "section": "",
-    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+    "text": "I’m a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)"
   },
   {
-    "objectID": "people/David-info.html#a-fun-fact",
-    "href": "people/David-info.html#a-fun-fact",
-    "title": "David Hidalgo",
+    "objectID": "people/martin.html#a-fun-fact",
+    "href": "people/martin.html#a-fun-fact",
+    "title": "Martín Suárez",
     "section": "A fun fact",
-    "text": "A fun fact\nUsually not funny haha but funny weird"
+    "text": "A fun fact\nI have a cat that is almost as obsessed with food as I am."
   },
   {
-    "objectID": "people/David-info.html#my-favourite-or-most-cursed-plot",
-    "href": "people/David-info.html#my-favourite-or-most-cursed-plot",
-    "title": "David Hidalgo",
+    "objectID": "people/ale-ulm.html",
+    "href": "people/ale-ulm.html",
+    "title": "Ale U.",
+    "section": "",
+    "text": "I like spending time with friends."
+  },
+  {
+    "objectID": "people/ale-ulm.html#about-me",
+    "href": "people/ale-ulm.html#about-me",
+    "title": "Ale U.",
+    "section": "",
+    "text": "I like spending time with friends."
+  },
+  {
+    "objectID": "people/ale-ulm.html#a-fun-fact",
+    "href": "people/ale-ulm.html#a-fun-fact",
+    "title": "Ale U.",
+    "section": "A fun fact",
+    "text": "A fun fact\nI listen to random playlist like: https://www.youtube.com/watch?v=dzCuwjHFd7M&list=RDdzCuwjHFd7M&start_radio=1&t=3353s"
+  },
+  {
+    "objectID": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
+    "href": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
+    "title": "Ale U.",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nAlways pick the most curser color palletes, then cleanup later"
+    "text": "My favourite (or most cursed) plot\nHave you ever heard about a sankey plot (not a fan)"
+  },
+  {
+    "objectID": "people/example-maria.html",
+    "href": "people/example-maria.html",
+    "title": "Maria Example",
+    "section": "",
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+  },
+  {
+    "objectID": "people/example-maria.html#about-me",
+    "href": "people/example-maria.html#about-me",
+    "title": "Maria Example",
+    "section": "",
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+  },
+  {
+    "objectID": "people/example-maria.html#a-fun-fact",
+    "href": "people/example-maria.html#a-fun-fact",
+    "title": "Maria Example",
+    "section": "A fun fact",
+    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
+  },
+  {
+    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "title": "Maria Example",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
   },
   {
     "objectID": "index.html",
@@ -201,6 +166,69 @@
     "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
     "section": "🤔 The whole point",
     "text": "🤔 The whole point\n\nThe content here is meant to be quick and fun — a sentence or two each. The real learning is in the git workflow, not in writing essays. Keep your entries short, keep your commits frequent, and don’t be afraid to break things. That’s what forks are for. 🚀"
+  },
+  {
+    "objectID": "pages/one-liners.html",
+    "href": "pages/one-liners.html",
+    "title": "✨ R One-Liners",
+    "section": "",
+    "text": "Share a favourite, clever, or gloriously cursed R one-liner. Bonus points if nobody else can read it. Add yours as a new entry at the bottom."
+  },
+  {
+    "objectID": "pages/one-liners.html#the-collection",
+    "href": "pages/one-liners.html#the-collection",
+    "title": "✨ R One-Liners",
+    "section": "The Collection",
+    "text": "The Collection\nMaria — count rows per group without dplyr:\ntable(df$species)\nJohan — the entire tidyverse in one breath:\ndf |&gt; group_by(g) |&gt; summarise(m = mean(x), .groups = \"drop\")\nMartín — Tells you when it’s time to leave the lab\nSys.time()\nAle — lapply instead of for loops\nlist –&gt; lapply(list, function(x) x^2)\nMohito — Prints my name\nprint(rev(rev(rev(rev(rev(c(\"Jag\" ,\"heter\", \"Mohit\")))))))"
+  },
+  {
+    "objectID": "pages/recommendations.html",
+    "href": "pages/recommendations.html",
+    "title": "📚 Recommendations",
+    "section": "",
+    "text": "Recommend one thing worth a PhD student’s time: a paper, a book, a podcast, a package, a blog. One line on why it’s worth it. Add to the bottom of the list."
+  },
+  {
+    "objectID": "pages/recommendations.html#the-list",
+    "href": "pages/recommendations.html#the-list",
+    "title": "📚 Recommendations",
+    "section": "The List",
+    "text": "The List\n\n📄 Paper — “Tidy Data” (Wickham, 2014) — Maria — will change how you store data forever.\n🎧 Podcast — Not So Standard Deviations — Johan — stats chat that doesn’t put you to sleep.\n👩‍💻 MOOC — “Learning how to learn” — Ale — learn how to learn, and learn how to learn better.\n(type: paper / book / podcast / package) — title — (your name) — (why in one line)\nPaper — Can Biologists fix a radio? — Mohit — Systems Biology is pretty sweet"
+  },
+  {
+    "objectID": "pages/hello.html",
+    "href": "pages/hello.html",
+    "title": "Hello",
+    "section": "",
+    "text": "Hello! This is a simple page."
+  },
+  {
+    "objectID": "pages/fika.html",
+    "href": "pages/fika.html",
+    "title": "☕ Best Fika",
+    "section": "",
+    "text": "No RaukR is complete without fika. Rate the best coffee, kanelbulle, or cake spot — on Gotland or back home. One line each, stars out of five. ⭐"
+  },
+  {
+    "objectID": "pages/fika.html#the-fika-leaderboard",
+    "href": "pages/fika.html#the-fika-leaderboard",
+    "title": "☕ Best Fika",
+    "section": "The Fika Leaderboard",
+    "text": "The Fika Leaderboard\n\n\n\n\n\n\n\n\n\nWho\nPlace\nWhat to order\nRating\n\n\n\n\nMaria\nVisby old town café\nSaffron bun\n⭐⭐⭐⭐⭐\n\n\nJohan\nThe department kitchen\nWhatever is free\n⭐⭐\n\n\nAle\nLillebrors bageri\nCinnamon roll\n⭐⭐⭐⭐\n\n\n(your name)\n(where?)\n(what?)\n(⭐?)\n\n\nMartín\nKällarbyn (Stockholm)\nKladdkaka\n⭐⭐⭐⭐\n\n\nDavid\nPlease show me\nGood croisants\nNo⭐\n\n\nMohit\nThat one Pizzeria in Hisingen\nKebab pizza with pommes, jalapeno and piri piri powder(Pizza is valid Fika don’t @ me\n⭐⭐⭐⭐⭐⭐⭐"
+  },
+  {
+    "objectID": "pages/worst-bug.html",
+    "href": "pages/worst-bug.html",
+    "title": "🐛 Bug Horror Stories",
+    "section": "",
+    "text": "Every coder has a bug that haunts them. Add yours to the table below — keep it to one line, the more painful the better."
+  },
+  {
+    "objectID": "pages/worst-bug.html#the-hall-of-pain",
+    "href": "pages/worst-bug.html#the-hall-of-pain",
+    "title": "🐛 Bug Horror Stories",
+    "section": "The Hall of Pain",
+    "text": "The Hall of Pain\n\n\n\n\n\n\n\n\nWho\nThe bug\nTime lost\n\n\n\n\nMaria\nTwo variables: data and Data. Two days.\n2 days\n\n\nJohan\nTypo on line 4 of a 14-hour script.\n14 hours\n\n\nAle\nTypo on paired fastq file names during mapping. I had two fastq.R1\n24h hours\n\n\n(your name)\n(your worst bug — one line)\n(how long?)\n\n\nMohit\nvibe destroyed the vibe created work\ndays…"
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -238,6 +266,62 @@
     "text": "You don’t need this to contribute — you only edit Markdown — but if you have Quarto installed:\nquarto preview\nOtherwise, just open your PR: the site rebuilds and deploys automatically once your change is merged."
   },
   {
+    "objectID": "people/David-info.html",
+    "href": "people/David-info.html",
+    "title": "David Hidalgo",
+    "section": "",
+    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+  },
+  {
+    "objectID": "people/David-info.html#about-me",
+    "href": "people/David-info.html#about-me",
+    "title": "David Hidalgo",
+    "section": "",
+    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+  },
+  {
+    "objectID": "people/David-info.html#a-fun-fact",
+    "href": "people/David-info.html#a-fun-fact",
+    "title": "David Hidalgo",
+    "section": "A fun fact",
+    "text": "A fun fact\nUsually not funny haha but funny weird"
+  },
+  {
+    "objectID": "people/David-info.html#my-favourite-or-most-cursed-plot",
+    "href": "people/David-info.html#my-favourite-or-most-cursed-plot",
+    "title": "David Hidalgo",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nAlways pick the most curser color palletes, then cleanup later"
+  },
+  {
+    "objectID": "people/sebastian_d.html",
+    "href": "people/sebastian_d.html",
+    "title": "Sebastian Di Lorenzo",
+    "section": "",
+    "text": "I just graduated from school. Promise!"
+  },
+  {
+    "objectID": "people/sebastian_d.html#about-me",
+    "href": "people/sebastian_d.html#about-me",
+    "title": "Sebastian Di Lorenzo",
+    "section": "",
+    "text": "I just graduated from school. Promise!"
+  },
+  {
+    "objectID": "people/sebastian_d.html#a-fun-fact",
+    "href": "people/sebastian_d.html#a-fun-fact",
+    "title": "Sebastian Di Lorenzo",
+    "section": "A fun fact",
+    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃\nHere is a list of animal group names (collective nouns):\n\n\n\nAnimal\nGroup Name\n\n\n\n\nOwls\nParliament\n\n\nCrows\nMurder\n\n\nFerrets\nBusiness\n\n\nFlamingos\nFlamboyance\n\n\nZebras\nDazzle\n\n\nRavens\nUnkindness\n\n\nRhinoceroses\nCrash\n\n\nLions\nPride\n\n\nGiraffes\nTower\n\n\nHippopotamuses\nBloat\n\n\nLemurs\nConspiracy\n\n\nKangaroos\nMob\n\n\nJellyfish\nSmack\n\n\nOtters\nRomp\n\n\nPandas\nEmbarrassment\n\n\nPorcupines\nPrickle\n\n\nFrogs\nArmy\n\n\nSharks\nShiver\n\n\nSquirrels\nScurry\n\n\nWhales\nPod\n\n\nWolves\nPack\n\n\nAlligators\nCongregation"
+  },
+  {
+    "objectID": "people/sebastian_d.html#my-favourite-or-most-cursed-plot",
+    "href": "people/sebastian_d.html#my-favourite-or-most-cursed-plot",
+    "title": "Sebastian Di Lorenzo",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nTo take over the world!!!"
+  },
+  {
     "objectID": "people/marcin_k.html",
     "href": "people/marcin_k.html",
     "title": "Marcin Kierczak",
@@ -266,34 +350,6 @@
     "text": "My favourite (or most cursed) plot\nThe Witcher Map."
   },
   {
-    "objectID": "people/example-maria.html",
-    "href": "people/example-maria.html",
-    "title": "Maria Example",
-    "section": "",
-    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
-  },
-  {
-    "objectID": "people/example-maria.html#about-me",
-    "href": "people/example-maria.html#about-me",
-    "title": "Maria Example",
-    "section": "",
-    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
-  },
-  {
-    "objectID": "people/example-maria.html#a-fun-fact",
-    "href": "people/example-maria.html#a-fun-fact",
-    "title": "Maria Example",
-    "section": "A fun fact",
-    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
-  },
-  {
-    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
-    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
-    "title": "Maria Example",
-    "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
-  },
-  {
     "objectID": "people/agne.html",
     "href": "people/agne.html",
     "title": "Agne",
@@ -306,34 +362,6 @@
     "title": "Agne",
     "section": "",
     "text": "Someone trying to get around Quarto and Git today."
-  },
-  {
-    "objectID": "people/martin.html",
-    "href": "people/martin.html",
-    "title": "Martín Suárez",
-    "section": "",
-    "text": "I’m a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)"
-  },
-  {
-    "objectID": "people/martin.html#about-me",
-    "href": "people/martin.html#about-me",
-    "title": "Martín Suárez",
-    "section": "",
-    "text": "I’m a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)"
-  },
-  {
-    "objectID": "people/martin.html#a-fun-fact",
-    "href": "people/martin.html#a-fun-fact",
-    "title": "Martín Suárez",
-    "section": "A fun fact",
-    "text": "A fun fact\nI have a cat that is almost as obsessed with food as I am."
-  },
-  {
-    "objectID": "people/index.html",
-    "href": "people/index.html",
-    "title": "👋 Participants",
-    "section": "",
-    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgne\n\n\nPhD in Gene Technology 🧬\n\n\nResearching the effect of endocrine disrupting chemicals on health.\n\n\n\n\n\n\n\n\n\n\n\n\nAle U.\n\n\nPhD in Immunology\n\n\nI study bugs in swiss rolls.\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Hidalgo\n\n\nPhD in stem cell biology\n\n\nWorks on epigenetics of BM-MSCs\n\n\n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMarcin Kierczak\n\n\nInnocent bystander\n\n\nMedieval mindset is always with me\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMartín Suárez\n\n\nPhD in mucosal immunology 🧬\n\n\nTrying to understand what’s going bad in the gut of mice and humans (unsuccessfully)\n\n\n\n\n\n\n\n\n\n\n\n\nMedieval Coder\n\n\ncuriosity is key 🧬\n\n\nHappy to be here\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/mohito.html",
@@ -362,33 +390,5 @@
     "title": "Mohito",
     "section": "My favourite (or most cursed) plot",
     "text": "My favourite (or most cursed) plot\nHave you ever tried making a heatmap with 20+ clinical metadata as row annotation? no? good for you"
-  },
-  {
-    "objectID": "pages/one-liners.html",
-    "href": "pages/one-liners.html",
-    "title": "✨ R One-Liners",
-    "section": "",
-    "text": "Share a favourite, clever, or gloriously cursed R one-liner. Bonus points if nobody else can read it. Add yours as a new entry at the bottom."
-  },
-  {
-    "objectID": "pages/one-liners.html#the-collection",
-    "href": "pages/one-liners.html#the-collection",
-    "title": "✨ R One-Liners",
-    "section": "The Collection",
-    "text": "The Collection\nMaria — count rows per group without dplyr:\ntable(df$species)\nJohan — the entire tidyverse in one breath:\ndf |&gt; group_by(g) |&gt; summarise(m = mean(x), .groups = \"drop\")\nAle — lapply instead of for loops\nlist –&gt; lapply(list, function(x) x^2)\n**Mohito** — Prints my name \n```r\nprint(rev(rev(rev(rev(rev(c(\"Jag\" ,\"heter\", \"Mohit\")))))))"
-  },
-  {
-    "objectID": "pages/recommendations.html",
-    "href": "pages/recommendations.html",
-    "title": "📚 Recommendations",
-    "section": "",
-    "text": "Recommend one thing worth a PhD student’s time: a paper, a book, a podcast, a package, a blog. One line on why it’s worth it. Add to the bottom of the list."
-  },
-  {
-    "objectID": "pages/recommendations.html#the-list",
-    "href": "pages/recommendations.html#the-list",
-    "title": "📚 Recommendations",
-    "section": "The List",
-    "text": "The List\n\n📄 Paper — “Tidy Data” (Wickham, 2014) — Maria — will change how you store data forever.\n🎧 Podcast — Not So Standard Deviations — Johan — stats chat that doesn’t put you to sleep.\n👩‍💻 MOOC — “Learning how to learn” — Ale — learn how to learn, and learn how to learn better.\n(type: paper / book / podcast / package) — title — (your name) — (why in one line)\nPaper — Can Biologists fix a radio? — Mohit — Systems Biology is pretty sweet"
   }
 ]
