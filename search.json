@@ -63,32 +63,60 @@
     "text": "My favourite (or most cursed) plot\nA ggplot with 11 facets, 3 legends, and a colour scale only a raccoon could love."
   },
   {
-    "objectID": "people/example-maria.html",
-    "href": "people/example-maria.html",
-    "title": "Maria Example",
+    "objectID": "people/sebastian_d.html",
+    "href": "people/sebastian_d.html",
+    "title": "Sebastian Di Lorenzo",
     "section": "",
-    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+    "text": "I just graduated from school. Promise!"
   },
   {
-    "objectID": "people/example-maria.html#about-me",
-    "href": "people/example-maria.html#about-me",
-    "title": "Maria Example",
+    "objectID": "people/sebastian_d.html#about-me",
+    "href": "people/sebastian_d.html#about-me",
+    "title": "Sebastian Di Lorenzo",
     "section": "",
-    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+    "text": "I just graduated from school. Promise!"
   },
   {
-    "objectID": "people/example-maria.html#a-fun-fact",
-    "href": "people/example-maria.html#a-fun-fact",
-    "title": "Maria Example",
+    "objectID": "people/sebastian_d.html#a-fun-fact",
+    "href": "people/sebastian_d.html#a-fun-fact",
+    "title": "Sebastian Di Lorenzo",
     "section": "A fun fact",
-    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
+    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃\nHere is a list of animal group names (collective nouns):\n\n\n\nAnimal\nGroup Name\n\n\n\n\nOwls\nParliament\n\n\nCrows\nMurder\n\n\nFerrets\nBusiness\n\n\nFlamingos\nFlamboyance\n\n\nZebras\nDazzle\n\n\nRavens\nUnkindness\n\n\nRhinoceroses\nCrash\n\n\nLions\nPride\n\n\nGiraffes\nTower\n\n\nHippopotamuses\nBloat\n\n\nLemurs\nConspiracy\n\n\nKangaroos\nMob\n\n\nJellyfish\nSmack\n\n\nOtters\nRomp\n\n\nPandas\nEmbarrassment\n\n\nPorcupines\nPrickle\n\n\nFrogs\nArmy\n\n\nSharks\nShiver\n\n\nSquirrels\nScurry\n\n\nWhales\nPod\n\n\nWolves\nPack\n\n\nAlligators\nCongregation"
   },
   {
-    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
-    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
-    "title": "Maria Example",
+    "objectID": "people/sebastian_d.html#my-favourite-or-most-cursed-plot",
+    "href": "people/sebastian_d.html#my-favourite-or-most-cursed-plot",
+    "title": "Sebastian Di Lorenzo",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
+    "text": "My favourite (or most cursed) plot\nTo take over the world!!!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "",
+    "text": "This website is co-created by the entire RaukR cohort — one fork, one branch, one pull request at a time. Every page you see was added by a student practicing their git powers. ⚡"
+  },
+  {
+    "objectID": "index.html#your-mission",
+    "href": "index.html#your-mission",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🎯 Your mission",
+    "text": "🎯 Your mission\nBy the end of the workshop you should have:\n\nForked this repository to your own GitHub account.\nAdded yourself to the Participants gallery.\nMade at least one contribution to a shared page (and survived the resulting merge conflict 😈).\nOpened a pull request back to this repo and gotten it merged.\n\n\n\n\n\n\n\nTipBrand new? Start here\n\n\n\nHead straight to the Contributing guide. It walks you through fork → clone → branch → commit → push → PR, step by step."
+  },
+  {
+    "objectID": "index.html#whats-on-the-site",
+    "href": "index.html#whats-on-the-site",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🗺️ What’s on the site",
+    "text": "🗺️ What’s on the site\n\n\n\nPage\nWhat you do there\nConflict risk\n\n\n\n\n👋 Participants\nAdd your own profile card (one new file)\n🟢 Low\n\n\n🐛 Bug Horror Stories\nAdd your worst bug ever\n🔴 High\n\n\n☕ Best Fika\nRate the best fika on Gotland\n🔴 High\n\n\n✨ R One-Liners\nShare a favourite (or cursed) one-liner\n🔴 High\n\n\n📚 Recommendations\nRecommend a paper, book or podcast\n🔴 High\n\n\n\nThe 🟢 low-risk page gives you a clean, conflict-free PR to build confidence. The 🔴 high-risk pages are deliberately set up so that everyone edits the same file — that’s where you’ll learn to git pull, rebase, and resolve conflicts like a pro."
+  },
+  {
+    "objectID": "index.html#the-whole-point",
+    "href": "index.html#the-whole-point",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🤔 The whole point",
+    "text": "🤔 The whole point\n\nThe content here is meant to be quick and fun — a sentence or two each. The real learning is in the git workflow, not in writing essays. Keep your entries short, keep your commits frequent, and don’t be afraid to break things. That’s what forks are for. 🚀"
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -126,39 +154,39 @@
     "text": "You don’t need this to contribute — you only edit Markdown — but if you have Quarto installed:\nquarto preview\nOtherwise, just open your PR: the site rebuilds and deploys automatically once your change is merged."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "objectID": "people/example-maria.html",
+    "href": "people/example-maria.html",
+    "title": "Maria Example",
     "section": "",
-    "text": "This website is co-created by the entire RaukR cohort — one fork, one branch, one pull request at a time. Every page you see was added by a student practicing their git powers. ⚡"
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
   },
   {
-    "objectID": "index.html#your-mission",
-    "href": "index.html#your-mission",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
-    "section": "🎯 Your mission",
-    "text": "🎯 Your mission\nBy the end of the workshop you should have:\n\nForked this repository to your own GitHub account.\nAdded yourself to the Participants gallery.\nMade at least one contribution to a shared page (and survived the resulting merge conflict 😈).\nOpened a pull request back to this repo and gotten it merged.\n\n\n\n\n\n\n\nTipBrand new? Start here\n\n\n\nHead straight to the Contributing guide. It walks you through fork → clone → branch → commit → push → PR, step by step."
+    "objectID": "people/example-maria.html#about-me",
+    "href": "people/example-maria.html#about-me",
+    "title": "Maria Example",
+    "section": "",
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
   },
   {
-    "objectID": "index.html#whats-on-the-site",
-    "href": "index.html#whats-on-the-site",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
-    "section": "🗺️ What’s on the site",
-    "text": "🗺️ What’s on the site\n\n\n\nPage\nWhat you do there\nConflict risk\n\n\n\n\n👋 Participants\nAdd your own profile card (one new file)\n🟢 Low\n\n\n🐛 Bug Horror Stories\nAdd your worst bug ever\n🔴 High\n\n\n☕ Best Fika\nRate the best fika on Gotland\n🔴 High\n\n\n✨ R One-Liners\nShare a favourite (or cursed) one-liner\n🔴 High\n\n\n📚 Recommendations\nRecommend a paper, book or podcast\n🔴 High\n\n\n\nThe 🟢 low-risk page gives you a clean, conflict-free PR to build confidence. The 🔴 high-risk pages are deliberately set up so that everyone edits the same file — that’s where you’ll learn to git pull, rebase, and resolve conflicts like a pro."
+    "objectID": "people/example-maria.html#a-fun-fact",
+    "href": "people/example-maria.html#a-fun-fact",
+    "title": "Maria Example",
+    "section": "A fun fact",
+    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
   },
   {
-    "objectID": "index.html#the-whole-point",
-    "href": "index.html#the-whole-point",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
-    "section": "🤔 The whole point",
-    "text": "🤔 The whole point\n\nThe content here is meant to be quick and fun — a sentence or two each. The real learning is in the git workflow, not in writing essays. Keep your entries short, keep your commits frequent, and don’t be afraid to break things. That’s what forks are for. 🚀"
+    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "title": "Maria Example",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
   },
   {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "👋 Participants",
     "section": "",
-    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/mohito.html",
