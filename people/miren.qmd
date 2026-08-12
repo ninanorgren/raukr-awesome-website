@@ -1,0 +1,24 @@
+---
+title: "Miren"
+subtitle: "PhD in malaria biology"
+description: "Studying malaria in the liver, one transcriptome at a time"
+image: /Users/mirenurrutiaiturritza/Downloads/galtzagorri.jpeg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I make colourful plots and occasionally understand them
+
+## A fun fact
+
+Fun plotting tip: MoMAColors gives you R colour palettes inspired by MoMA artworks, and they make even questionable plots look suspiciously good.
+
+## My favourite (or most cursed) plot
+
+How do I chose?
