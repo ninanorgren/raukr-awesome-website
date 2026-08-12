@@ -1,0 +1,24 @@
+---
+title: "David Hidalgo"
+subtitle: "PhD in stem cell biology"
+description: "Works on epigenetics of BM-MSCs"
+image: "https://api.dicebear.com/10.x/identicon/svg?seed=David"
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I work on early fate decusions of BM-MSCs during bone formation and repair
+
+## A fun fact
+
+Usually not funny haha but funny weird
+
+## My favourite (or most cursed) plot
+
+Always pick the most curser color palletes, then cleanup later
