@@ -67,7 +67,7 @@
     "href": "people/index.html",
     "title": "👋 Participants",
     "section": "",
-    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgne\n\n\nPhD in Gene Technology 🧬\n\n\nResearching the effect of endocrine disrupting chemicals on health.\n\n\n\n\n\n\n\n\n\n\n\n\nAle U.\n\n\nPhD in Immunology\n\n\nI study bugs in swiss rolls.\n\n\n\n\n\n\n\n\n\n\n\n\nCurly Fry\n\n\nPhD Student in Life Sciences\n\n\nMakes people drink coffee for science.\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Hidalgo\n\n\nPhD in stem cell biology\n\n\nWorks on epigenetics of BM-MSCs\n\n\n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\nLiba\n\n\nPhD in Tumor Immunology\n\n\njust trying her best.\n\n\n\n\n\n\n\n\n\n\n\n\nMarcin Kierczak\n\n\nInnocent bystander\n\n\nMedieval mindset is always with me\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMartín Suárez\n\n\nPhD in mucosal immunology 🧬\n\n\nTrying to understand what’s going bad in the gut of mice and humans (unsuccessfully)\n\n\n\n\n\n\n\n\n\n\n\n\nMedieval Coder\n\n\ncuriosity is key 🧬\n\n\nHappy to be here\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgne\n\n\nPhD in Gene Technology 🧬\n\n\nResearching the effect of endocrine disrupting chemicals on health.\n\n\n\n\n\n\n\n\n\n\n\n\nAle U.\n\n\nPhD in Immunology\n\n\nI study bugs in swiss rolls.\n\n\n\n\n\n\n\n\n\n\n\n\nCecilia M\n\n\nPhD in Bioscience 🧬\n\n\nStudies shit..literally (microbiome), and some metabolomics too.\n\n\n\n\n\n\n\n\n\n\n\n\nCurly Fry\n\n\nPhD Student in Life Sciences\n\n\nMakes people drink coffee for science.\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Hidalgo\n\n\nPhD in stem cell biology\n\n\nWorks on epigenetics of BM-MSCs\n\n\n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\nLiba\n\n\nPhD in Tumor Immunology\n\n\njust trying her best.\n\n\n\n\n\n\n\n\n\n\n\n\nMarcin Kierczak\n\n\nInnocent bystander\n\n\nMedieval mindset is always with me\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMartín Suárez\n\n\nPhD in mucosal immunology 🧬\n\n\nTrying to understand what’s going bad in the gut of mice and humans (unsuccessfully)\n\n\n\n\n\n\n\n\n\n\n\n\nMedieval Coder\n\n\ncuriosity is key 🧬\n\n\nHappy to be here\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/martin.html",
@@ -91,102 +91,116 @@
     "text": "A fun fact\nI have a cat that is almost as obsessed with food as I am."
   },
   {
-    "objectID": "people/agne.html",
-    "href": "people/agne.html",
-    "title": "Agne",
+    "objectID": "people/ale-ulm.html",
+    "href": "people/ale-ulm.html",
+    "title": "Ale U.",
     "section": "",
-    "text": "Someone trying to get around Quarto and Git today."
+    "text": "I like spending time with friends."
   },
   {
-    "objectID": "people/agne.html#about-me",
-    "href": "people/agne.html#about-me",
-    "title": "Agne",
+    "objectID": "people/ale-ulm.html#about-me",
+    "href": "people/ale-ulm.html#about-me",
+    "title": "Ale U.",
     "section": "",
-    "text": "Someone trying to get around Quarto and Git today."
+    "text": "I like spending time with friends."
   },
   {
-    "objectID": "people/medievalcoder.html",
-    "href": "people/medievalcoder.html",
-    "title": "Medieval Coder",
-    "section": "",
-    "text": "I’m here to learn more intricate R and gain speed in explorations"
-  },
-  {
-    "objectID": "people/medievalcoder.html#about-me",
-    "href": "people/medievalcoder.html#about-me",
-    "title": "Medieval Coder",
-    "section": "",
-    "text": "I’m here to learn more intricate R and gain speed in explorations"
-  },
-  {
-    "objectID": "people/medievalcoder.html#a-fun-fact",
-    "href": "people/medievalcoder.html#a-fun-fact",
-    "title": "Medieval Coder",
+    "objectID": "people/ale-ulm.html#a-fun-fact",
+    "href": "people/ale-ulm.html#a-fun-fact",
+    "title": "Ale U.",
     "section": "A fun fact",
-    "text": "A fun fact\nI feel like I’m in a fairytale coding here in Visby"
+    "text": "A fun fact\nI listen to random playlist like: https://www.youtube.com/watch?v=dzCuwjHFd7M&list=RDdzCuwjHFd7M&start_radio=1&t=3353s"
   },
   {
-    "objectID": "people/medievalcoder.html#my-favourite-or-most-cursed-plot",
-    "href": "people/medievalcoder.html#my-favourite-or-most-cursed-plot",
-    "title": "Medieval Coder",
+    "objectID": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
+    "href": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
+    "title": "Ale U.",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nI spent at least 2 full days picking out the colors for it, still use the color combo for other graphs"
+    "text": "My favourite (or most cursed) plot\nHave you ever heard about a sankey plot (not a fan)"
   },
   {
-    "objectID": "people/David-info.html",
-    "href": "people/David-info.html",
-    "title": "David Hidalgo",
+    "objectID": "people/curlyfry.html",
+    "href": "people/curlyfry.html",
+    "title": "Curly Fry",
     "section": "",
-    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+    "text": "I have 100 tabs open at all times."
   },
   {
-    "objectID": "people/David-info.html#about-me",
-    "href": "people/David-info.html#about-me",
-    "title": "David Hidalgo",
+    "objectID": "people/curlyfry.html#about-me",
+    "href": "people/curlyfry.html#about-me",
+    "title": "Curly Fry",
     "section": "",
-    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+    "text": "I have 100 tabs open at all times."
   },
   {
-    "objectID": "people/David-info.html#a-fun-fact",
-    "href": "people/David-info.html#a-fun-fact",
-    "title": "David Hidalgo",
+    "objectID": "people/curlyfry.html#a-fun-fact",
+    "href": "people/curlyfry.html#a-fun-fact",
+    "title": "Curly Fry",
     "section": "A fun fact",
-    "text": "A fun fact\nUsually not funny haha but funny weird"
+    "text": "A fun fact\nOn a mission to try all the flavors at glassmagazinet"
   },
   {
-    "objectID": "people/David-info.html#my-favourite-or-most-cursed-plot",
-    "href": "people/David-info.html#my-favourite-or-most-cursed-plot",
-    "title": "David Hidalgo",
+    "objectID": "people/curlyfry.html#my-favourite-or-most-cursed-plot",
+    "href": "people/curlyfry.html#my-favourite-or-most-cursed-plot",
+    "title": "Curly Fry",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nAlways pick the most curser color palletes, then cleanup later"
+    "text": "My favourite (or most cursed) plot\nNo comment"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "objectID": "people/example-maria.html",
+    "href": "people/example-maria.html",
+    "title": "Maria Example",
     "section": "",
-    "text": "This website is co-created by the entire RaukR cohort — one fork, one branch, one pull request at a time. Every page you see was added by a student practicing their git powers. ⚡"
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
   },
   {
-    "objectID": "index.html#your-mission",
-    "href": "index.html#your-mission",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
-    "section": "🎯 Your mission",
-    "text": "🎯 Your mission\nBy the end of the workshop you should have:\n\nForked this repository to your own GitHub account.\nAdded yourself to the Participants gallery.\nMade at least one contribution to a shared page (and survived the resulting merge conflict 😈).\nOpened a pull request back to this repo and gotten it merged.\n\n\n\n\n\n\n\nTipBrand new? Start here\n\n\n\nHead straight to the Contributing guide. It walks you through fork → clone → branch → commit → push → PR, step by step."
+    "objectID": "people/example-maria.html#about-me",
+    "href": "people/example-maria.html#about-me",
+    "title": "Maria Example",
+    "section": "",
+    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
   },
   {
-    "objectID": "index.html#whats-on-the-site",
-    "href": "index.html#whats-on-the-site",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
-    "section": "🗺️ What’s on the site",
-    "text": "🗺️ What’s on the site\n\n\n\nPage\nWhat you do there\nConflict risk\n\n\n\n\n👋 Participants\nAdd your own profile card (one new file)\n🟢 Low\n\n\n🐛 Bug Horror Stories\nAdd your worst bug ever\n🔴 High\n\n\n☕ Best Fika\nRate the best fika on Gotland\n🔴 High\n\n\n✨ R One-Liners\nShare a favourite (or cursed) one-liner\n🔴 High\n\n\n📚 Recommendations\nRecommend a paper, book or podcast\n🔴 High\n\n\n\nThe 🟢 low-risk page gives you a clean, conflict-free PR to build confidence. The 🔴 high-risk pages are deliberately set up so that everyone edits the same file — that’s where you’ll learn to git pull, rebase, and resolve conflicts like a pro."
+    "objectID": "people/example-maria.html#a-fun-fact",
+    "href": "people/example-maria.html#a-fun-fact",
+    "title": "Maria Example",
+    "section": "A fun fact",
+    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
   },
   {
-    "objectID": "index.html#the-whole-point",
-    "href": "index.html#the-whole-point",
-    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
-    "section": "🤔 The whole point",
-    "text": "🤔 The whole point\n\nThe content here is meant to be quick and fun — a sentence or two each. The real learning is in the git workflow, not in writing essays. Keep your entries short, keep your commits frequent, and don’t be afraid to break things. That’s what forks are for. 🚀"
+    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
+    "title": "Maria Example",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
+  },
+  {
+    "objectID": "people/marcin_k.html",
+    "href": "people/marcin_k.html",
+    "title": "Marcin Kierczak",
+    "section": "",
+    "text": "I am a non-certified medieval ointment manufacturer."
+  },
+  {
+    "objectID": "people/marcin_k.html#about-me",
+    "href": "people/marcin_k.html#about-me",
+    "title": "Marcin Kierczak",
+    "section": "",
+    "text": "I am a non-certified medieval ointment manufacturer."
+  },
+  {
+    "objectID": "people/marcin_k.html#a-fun-fact",
+    "href": "people/marcin_k.html#a-fun-fact",
+    "title": "Marcin Kierczak",
+    "section": "A fun fact",
+    "text": "A fun fact\nYou cannot use arrows with swan feathers in an archery tournaments in Sweden unless you are a mamber of the Swedish Royal Family."
+  },
+  {
+    "objectID": "people/marcin_k.html#my-favourite-or-most-cursed-plot",
+    "href": "people/marcin_k.html#my-favourite-or-most-cursed-plot",
+    "title": "Marcin Kierczak",
+    "section": "My favourite (or most cursed) plot",
+    "text": "My favourite (or most cursed) plot\nThe Witcher Map."
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -224,116 +238,130 @@
     "text": "You don’t need this to contribute — you only edit Markdown — but if you have Quarto installed:\nquarto preview\nOtherwise, just open your PR: the site rebuilds and deploys automatically once your change is merged."
   },
   {
-    "objectID": "people/marcin_k.html",
-    "href": "people/marcin_k.html",
-    "title": "Marcin Kierczak",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
     "section": "",
-    "text": "I am a non-certified medieval ointment manufacturer."
+    "text": "This website is co-created by the entire RaukR cohort — one fork, one branch, one pull request at a time. Every page you see was added by a student practicing their git powers. ⚡"
   },
   {
-    "objectID": "people/marcin_k.html#about-me",
-    "href": "people/marcin_k.html#about-me",
-    "title": "Marcin Kierczak",
-    "section": "",
-    "text": "I am a non-certified medieval ointment manufacturer."
+    "objectID": "index.html#your-mission",
+    "href": "index.html#your-mission",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🎯 Your mission",
+    "text": "🎯 Your mission\nBy the end of the workshop you should have:\n\nForked this repository to your own GitHub account.\nAdded yourself to the Participants gallery.\nMade at least one contribution to a shared page (and survived the resulting merge conflict 😈).\nOpened a pull request back to this repo and gotten it merged.\n\n\n\n\n\n\n\nTipBrand new? Start here\n\n\n\nHead straight to the Contributing guide. It walks you through fork → clone → branch → commit → push → PR, step by step."
   },
   {
-    "objectID": "people/marcin_k.html#a-fun-fact",
-    "href": "people/marcin_k.html#a-fun-fact",
-    "title": "Marcin Kierczak",
+    "objectID": "index.html#whats-on-the-site",
+    "href": "index.html#whats-on-the-site",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🗺️ What’s on the site",
+    "text": "🗺️ What’s on the site\n\n\n\nPage\nWhat you do there\nConflict risk\n\n\n\n\n👋 Participants\nAdd your own profile card (one new file)\n🟢 Low\n\n\n🐛 Bug Horror Stories\nAdd your worst bug ever\n🔴 High\n\n\n☕ Best Fika\nRate the best fika on Gotland\n🔴 High\n\n\n✨ R One-Liners\nShare a favourite (or cursed) one-liner\n🔴 High\n\n\n📚 Recommendations\nRecommend a paper, book or podcast\n🔴 High\n\n\n\nThe 🟢 low-risk page gives you a clean, conflict-free PR to build confidence. The 🔴 high-risk pages are deliberately set up so that everyone edits the same file — that’s where you’ll learn to git pull, rebase, and resolve conflicts like a pro."
+  },
+  {
+    "objectID": "index.html#the-whole-point",
+    "href": "index.html#the-whole-point",
+    "title": "Welcome to the RaukR 2026 Awesome Website 🪨",
+    "section": "🤔 The whole point",
+    "text": "🤔 The whole point\n\nThe content here is meant to be quick and fun — a sentence or two each. The real learning is in the git workflow, not in writing essays. Keep your entries short, keep your commits frequent, and don’t be afraid to break things. That’s what forks are for. 🚀"
+  },
+  {
+    "objectID": "people/David-info.html",
+    "href": "people/David-info.html",
+    "title": "David Hidalgo",
+    "section": "",
+    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+  },
+  {
+    "objectID": "people/David-info.html#about-me",
+    "href": "people/David-info.html#about-me",
+    "title": "David Hidalgo",
+    "section": "",
+    "text": "I work on early fate decusions of BM-MSCs during bone formation and repair"
+  },
+  {
+    "objectID": "people/David-info.html#a-fun-fact",
+    "href": "people/David-info.html#a-fun-fact",
+    "title": "David Hidalgo",
     "section": "A fun fact",
-    "text": "A fun fact\nYou cannot use arrows with swan feathers in an archery tournaments in Sweden unless you are a mamber of the Swedish Royal Family."
+    "text": "A fun fact\nUsually not funny haha but funny weird"
   },
   {
-    "objectID": "people/marcin_k.html#my-favourite-or-most-cursed-plot",
-    "href": "people/marcin_k.html#my-favourite-or-most-cursed-plot",
-    "title": "Marcin Kierczak",
+    "objectID": "people/David-info.html#my-favourite-or-most-cursed-plot",
+    "href": "people/David-info.html#my-favourite-or-most-cursed-plot",
+    "title": "David Hidalgo",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nThe Witcher Map."
+    "text": "My favourite (or most cursed) plot\nAlways pick the most curser color palletes, then cleanup later"
   },
   {
-    "objectID": "people/example-maria.html",
-    "href": "people/example-maria.html",
-    "title": "Maria Example",
+    "objectID": "people/medievalcoder.html",
+    "href": "people/medievalcoder.html",
+    "title": "Medieval Coder",
     "section": "",
-    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+    "text": "I’m here to learn more intricate R and gain speed in explorations"
   },
   {
-    "objectID": "people/example-maria.html#about-me",
-    "href": "people/example-maria.html#about-me",
-    "title": "Maria Example",
+    "objectID": "people/medievalcoder.html#about-me",
+    "href": "people/medievalcoder.html#about-me",
+    "title": "Medieval Coder",
     "section": "",
-    "text": "I’m a second-year PhD student trying to figure out the genetics of fin shape in sticklebacks. I came to RaukR to finally stop emailing myself analysis_final_v3_REAL.R."
+    "text": "I’m here to learn more intricate R and gain speed in explorations"
   },
   {
-    "objectID": "people/example-maria.html#a-fun-fact",
-    "href": "people/example-maria.html#a-fun-fact",
-    "title": "Maria Example",
+    "objectID": "people/medievalcoder.html#a-fun-fact",
+    "href": "people/medievalcoder.html#a-fun-fact",
+    "title": "Medieval Coder",
     "section": "A fun fact",
-    "text": "A fun fact\nI once spent two days debugging a script before realising I had two objects called data and Data. 🙃"
+    "text": "A fun fact\nI feel like I’m in a fairytale coding here in Visby"
   },
   {
-    "objectID": "people/example-maria.html#my-favourite-or-most-cursed-plot",
-    "href": "people/example-maria.html#my-favourite-or-most-cursed-plot",
-    "title": "Maria Example",
+    "objectID": "people/medievalcoder.html#my-favourite-or-most-cursed-plot",
+    "href": "people/medievalcoder.html#my-favourite-or-most-cursed-plot",
+    "title": "Medieval Coder",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nA volcano plot so red it looked like a crime scene. Reviewers loved it."
+    "text": "My favourite (or most cursed) plot\nI spent at least 2 full days picking out the colors for it, still use the color combo for other graphs"
   },
   {
-    "objectID": "people/curlyfry.html",
-    "href": "people/curlyfry.html",
-    "title": "Curly Fry",
+    "objectID": "people/agne.html",
+    "href": "people/agne.html",
+    "title": "Agne",
     "section": "",
-    "text": "I have 100 tabs open at all times."
+    "text": "Someone trying to get around Quarto and Git today."
   },
   {
-    "objectID": "people/curlyfry.html#about-me",
-    "href": "people/curlyfry.html#about-me",
-    "title": "Curly Fry",
+    "objectID": "people/agne.html#about-me",
+    "href": "people/agne.html#about-me",
+    "title": "Agne",
     "section": "",
-    "text": "I have 100 tabs open at all times."
+    "text": "Someone trying to get around Quarto and Git today."
   },
   {
-    "objectID": "people/curlyfry.html#a-fun-fact",
-    "href": "people/curlyfry.html#a-fun-fact",
-    "title": "Curly Fry",
+    "objectID": "people/cecilia-info.html",
+    "href": "people/cecilia-info.html",
+    "title": "Cecilia M",
+    "section": "",
+    "text": "I’m a third-year PhD student trying to figure out how microbes in shit are involved on wether you age gracefully or not and if you die soon or later. I came to RaukR because it was in Visby."
+  },
+  {
+    "objectID": "people/cecilia-info.html#about-me",
+    "href": "people/cecilia-info.html#about-me",
+    "title": "Cecilia M",
+    "section": "",
+    "text": "I’m a third-year PhD student trying to figure out how microbes in shit are involved on wether you age gracefully or not and if you die soon or later. I came to RaukR because it was in Visby."
+  },
+  {
+    "objectID": "people/cecilia-info.html#a-fun-fact",
+    "href": "people/cecilia-info.html#a-fun-fact",
+    "title": "Cecilia M",
     "section": "A fun fact",
-    "text": "A fun fact\nOn a mission to try all the flavors at glassmagazinet"
+    "text": "A fun fact\nI was born in Chihuahua (yes like the dog). Is in Mexico btw"
   },
   {
-    "objectID": "people/curlyfry.html#my-favourite-or-most-cursed-plot",
-    "href": "people/curlyfry.html#my-favourite-or-most-cursed-plot",
-    "title": "Curly Fry",
+    "objectID": "people/cecilia-info.html#my-favourite-or-most-cursed-plot",
+    "href": "people/cecilia-info.html#my-favourite-or-most-cursed-plot",
+    "title": "Cecilia M",
     "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nNo comment"
-  },
-  {
-    "objectID": "people/ale-ulm.html",
-    "href": "people/ale-ulm.html",
-    "title": "Ale U.",
-    "section": "",
-    "text": "I like spending time with friends."
-  },
-  {
-    "objectID": "people/ale-ulm.html#about-me",
-    "href": "people/ale-ulm.html#about-me",
-    "title": "Ale U.",
-    "section": "",
-    "text": "I like spending time with friends."
-  },
-  {
-    "objectID": "people/ale-ulm.html#a-fun-fact",
-    "href": "people/ale-ulm.html#a-fun-fact",
-    "title": "Ale U.",
-    "section": "A fun fact",
-    "text": "A fun fact\nI listen to random playlist like: https://www.youtube.com/watch?v=dzCuwjHFd7M&list=RDdzCuwjHFd7M&start_radio=1&t=3353s"
-  },
-  {
-    "objectID": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
-    "href": "people/ale-ulm.html#my-favourite-or-most-cursed-plot",
-    "title": "Ale U.",
-    "section": "My favourite (or most cursed) plot",
-    "text": "My favourite (or most cursed) plot\nHave you ever heard about a sankey plot (not a fan)"
+    "text": "My favourite (or most cursed) plot\nHeatmaps. Love them but also hate them equally. :)"
   },
   {
     "objectID": "people/sebastian_d.html",
