@@ -1,0 +1,52 @@
+---
+title: "Sebastian Di Lorenzo"
+subtitle: "Visby enjoyer"
+description: "Tries to be funny, sometimes successfully."
+image: ../images/YoungSeb.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I just graduated from school. Promise!
+
+## A fun fact
+
+I once spent two days debugging a script before realising I had two objects called
+`data` and `Data`. 🙃
+
+Here is a list of animal group names (collective nouns):
+
+| Animal | Group Name |
+| :--- | :--- |
+| Owls | Parliament |
+| Crows | Murder |
+| Ferrets | Business |
+| Flamingos | Flamboyance |
+| Zebras | Dazzle |
+| Ravens | Unkindness |
+| Rhinoceroses | Crash |
+| Lions | Pride |
+| Giraffes | Tower |
+| Hippopotamuses | Bloat |
+| Lemurs | Conspiracy |
+| Kangaroos | Mob |
+| Jellyfish | Smack |
+| Otters | Romp |
+| Pandas | Embarrassment |
+| Porcupines | Prickle |
+| Frogs | Army |
+| Sharks | Shiver |
+| Squirrels | Scurry |
+| Whales | Pod |
+| Wolves | Pack |
+| Alligators | Congregation |
+
+## My favourite (or most cursed) plot
+
+To take over the world!!!
