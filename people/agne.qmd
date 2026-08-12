@@ -1,0 +1,17 @@
+---
+title: "Agne"
+subtitle: "PhD in Gene Technology 🧬"
+description: "Researching the effect of endocrine disrupting chemicals on health."
+image: ../images/agne.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+Someone trying to get around Quarto and Git today. 
+
