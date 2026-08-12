@@ -23,7 +23,7 @@ table(df$species)
 df |> group_by(g) |> summarise(m = mean(x), .groups = "drop")
 ```
 
-**(your name)** — *what does it do?*
+**Mohito** — Prints my name 
 ```r
-# your one-liner here
+print(rev(rev(rev(rev(rev(c("Jag" ,"heter", "Mohit")))))))
 ```
