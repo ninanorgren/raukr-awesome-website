@@ -1,79 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/liba.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/mohito.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/agne.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/marcin_k.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/sebastian_d.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/David-info.html</loc>
-    <lastmod>2026-08-12T11:01:05.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/CONTRIBUTING.html</loc>
-    <lastmod>2026-08-12T11:01:05.703Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/worst-bug.html</loc>
-    <lastmod>2026-08-12T11:01:05.721Z</lastmod>
-  </url>
-  <url>
     <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/fika.html</loc>
-    <lastmod>2026-08-12T11:01:05.720Z</lastmod>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
   </url>
   <url>
     <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/hello.html</loc>
-    <lastmod>2026-08-12T11:01:05.721Z</lastmod>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
   </url>
   <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/recommendations.html</loc>
-    <lastmod>2026-08-12T11:01:05.721Z</lastmod>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/worst-bug.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
   </url>
   <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/one-liners.html</loc>
-    <lastmod>2026-08-12T11:01:05.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/index.html</loc>
-    <lastmod>2026-08-12T11:01:05.720Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/example-maria.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/ale-ulm.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/martin.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/medievalcoder.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/mohito.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
   </url>
   <url>
     <loc>https://ninanorgren.github.io/raukr-awesome-website/people/index.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/martin.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/agne.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/medievalcoder.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/David-info.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/index.html</loc>
+    <lastmod>2026-08-12T11:01:23.878Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/CONTRIBUTING.html</loc>
+    <lastmod>2026-08-12T11:01:23.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/marcin_k.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/example-maria.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/curlyfry.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/ale-ulm.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/sebastian_d.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
   </url>
   <url>
     <loc>https://ninanorgren.github.io/raukr-awesome-website/people/example-johan.html</loc>
-    <lastmod>2026-08-12T11:01:05.722Z</lastmod>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/people/liba.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/one-liners.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ninanorgren.github.io/raukr-awesome-website/pages/recommendations.html</loc>
+    <lastmod>2026-08-12T11:01:23.879Z</lastmod>
   </url>
 </urlset>
