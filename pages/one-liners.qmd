@@ -23,7 +23,7 @@ table(df$species)
 df |> group_by(g) |> summarise(m = mean(x), .groups = "drop")
 ```
 
-**(your name)** — *what does it do?*
+**Ale** — *lapply instead of for loops*
 ```r
-# your one-liner here
+list –> lapply(list, function(x) x^2)
 ```
