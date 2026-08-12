@@ -19,4 +19,4 @@ that's your chance to practise resolving it. 💪
 |-----|---------|:---------:|
 | Maria | Two variables: `data` and `Data`. Two days. | 2 days |
 | Johan | Typo on line 4 of a 14-hour script. | 14 hours |
-| *(your name)* | *(your worst bug — one line)* | *(how long?)* |
+| *Mohit* | *vibe destroyed the vibe created work* | *days...* |
