@@ -1,0 +1,25 @@
+---
+title: "Cecilia M"
+subtitle: "PhD in Bioscience 🧬"
+description: "Studies shit..literally (microbiome), and some metabolomics too."
+image: ../images/chihuahua.webp
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I'm a third-year PhD student trying to figure out how microbes in shit are involved on wether you age gracefully or not and if you die soon or later. I came to RaukR because it was in Visby. 
+
+## A fun fact
+
+I was born in  Chihuahua (yes like the dog). Is in Mexico btw
+
+## My favourite (or most cursed) plot
+
+Heatmaps. Love them but also hate them equally. :)
+
