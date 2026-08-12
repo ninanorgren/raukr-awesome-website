@@ -21,3 +21,4 @@ that's your chance to practise resolving it. 💪
 | Johan | Typo on line 4 of a 14-hour script. | 14 hours |
 | Ale | Typo on paired fastq file names during mapping. I had two fastq.R1 | 24h hours |
 | *(your name)* | *(your worst bug — one line)* | *(how long?)* |
+| *Mohit* | *vibe destroyed the vibe created work* | *days...* |
