@@ -15,4 +15,4 @@ keep both sides when resolving. 📖
 
 - 📄 **Paper** — *"Tidy Data" (Wickham, 2014)* — Maria — will change how you store data forever.
 - 🎧 **Podcast** — *Not So Standard Deviations* — Johan — stats chat that doesn't put you to sleep.
-- *(type: paper / book / podcast / package)* — ***title*** — *(your name)* — *(why in one line)*
+- **Paper** — ***Can Biologists fix a radio?*** — *Mohit* — *Systems Biology is pretty sweet*
