@@ -1,0 +1,20 @@
+---
+title: "Maria Example"
+subtitle: "PhD in Evolutionary Genomics 🧬"
+description: "Studies why some fish are weirder than others. Fuelled by oat lattes."
+image: ../images/martin.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I'm a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)
+
+## A fun fact
+
+I have a cat that is almost as obsessed with food as I am. 

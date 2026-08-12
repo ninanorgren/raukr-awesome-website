@@ -1,0 +1,24 @@
+---
+title: "Marcin Kierczak"
+subtitle: "Innocent bystander"
+description: "Medieval mindset is always with me"
+image: ../images/YoungMarcin.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I am a non-certified medieval ointment manufacturer.
+
+## A fun fact
+
+You cannot use arrows with swan feathers in an archery tournaments in Sweden unless you are a mamber of the Swedish Royal Family.
+
+## My favourite (or most cursed) plot
+
+The Witcher Map.
