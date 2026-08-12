@@ -282,21 +282,21 @@
   {
     "objectID": "people/martin.html",
     "href": "people/martin.html",
-    "title": "Maria Example",
+    "title": "Martín Suárez",
     "section": "",
     "text": "I’m a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)"
   },
   {
     "objectID": "people/martin.html#about-me",
     "href": "people/martin.html#about-me",
-    "title": "Maria Example",
+    "title": "Martín Suárez",
     "section": "",
     "text": "I’m a first-year PhD student studying intestinal inflammation with transcriptomic tools. I came to RaukR to learn cool stuff and explore more of Sweden :)"
   },
   {
     "objectID": "people/martin.html#a-fun-fact",
     "href": "people/martin.html#a-fun-fact",
-    "title": "Maria Example",
+    "title": "Martín Suárez",
     "section": "A fun fact",
     "text": "A fun fact\nI have a cat that is almost as obsessed with food as I am."
   },
@@ -305,7 +305,7 @@
     "href": "people/index.html",
     "title": "👋 Participants",
     "section": "",
-    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgne\n\n\nPhD in Gene Technology 🧬\n\n\nResearching the effect of endocrine disrupting chemicals on health.\n\n\n\n\n\n\n\n\n\n\n\n\nAle U.\n\n\nPhD in Immunology\n\n\nI study bugs in swiss rolls.\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Hidalgo\n\n\nPhD in stem cell biology\n\n\nWorks on epigenetics of BM-MSCs\n\n\n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMarcin Kierczak\n\n\nInnocent bystander\n\n\nMedieval mindset is always with me\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the RaukR 2026 cohort! Each card below is one .qmd file added by a student. Adding yourself here is the easiest, conflict-free way to get your first pull request merged. 🎉\n\n\n\n\n\n\nNoteHow to add yourself\n\n\n\n\nCopy one of the example files in the people/ folder (e.g. example-maria.qmd).\nRename it to your own name, e.g. people/your-name.qmd.\nFill in your details. For your picture you can either:\n\nuse your own image — drop it in the images/ folder and set image: ../images/your-name.jpg (see example-maria.qmd), or\nuse an auto-generated avatar URL (see example-johan.qmd).\n\nOpen a pull request.\n\nBecause you’re adding a brand-new file, this almost never causes a merge conflict — the gallery below is generated automatically. ✨\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgne\n\n\nPhD in Gene Technology 🧬\n\n\nResearching the effect of endocrine disrupting chemicals on health.\n\n\n\n\n\n\n\n\n\n\n\n\nAle U.\n\n\nPhD in Immunology\n\n\nI study bugs in swiss rolls.\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Hidalgo\n\n\nPhD in stem cell biology\n\n\nWorks on epigenetics of BM-MSCs\n\n\n\n\n\n\n\n\n\n\n\n\nJohan Example\n\n\nPhD in Computational Ecology 🌲\n\n\nCounts trees with satellites. Strong opinions about |&gt; vs %&gt;%.\n\n\n\n\n\n\n\n\n\n\n\n\nMarcin Kierczak\n\n\nInnocent bystander\n\n\nMedieval mindset is always with me\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Example\n\n\nPhD in Evolutionary Genomics 🧬\n\n\nStudies why some fish are weirder than others. Fuelled by oat lattes.\n\n\n\n\n\n\n\n\n\n\n\n\nMartín Suárez\n\n\nPhD in mucosal immunology 🧬\n\n\nTrying to understand what’s going bad in the gut of mice and humans (unsuccessfully)\n\n\n\n\n\n\n\n\n\n\n\n\nMohito\n\n\nPhD Student in Medical Bioinformatics\n\n\nSave Premie babies!\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Di Lorenzo\n\n\nVisby enjoyer\n\n\nTries to be funny, sometimes successfully.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/mohito.html",
