@@ -23,6 +23,14 @@ table(df$species)
 df |> group_by(g) |> summarise(m = mean(x), .groups = "drop")
 ```
 
+**Martín** — Tells you when it's time to leave the lab
+```r
+Sys.time()
+```
+**Ale** — *lapply instead of for loops*
+```r
+list –> lapply(list, function(x) x^2)
+```
 **Mohito** — Prints my name 
 ```r
 print(rev(rev(rev(rev(rev(c("Jag" ,"heter", "Mohit")))))))

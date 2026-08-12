@@ -1,0 +1,17 @@
+---
+title: "Liba"
+subtitle: "PhD in Tumor Immunology"
+description: "just trying her best."
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+Studying what's up with those rare cancers.
+
+
