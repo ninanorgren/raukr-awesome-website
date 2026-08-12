@@ -1,0 +1,24 @@
+---
+title: "Ale U."
+subtitle: "PhD in Immunology"
+description: "I study bugs in swiss rolls."
+image: https://img.magnific.com/premium-vector/adorable-plush-doll-icon-vector-background-illustration_1322206-65598.jpg?semt=ais_hybrid&w=740&q=80
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I like spending time with friends. 
+
+## A fun fact
+
+I listen to random playlist like: https://www.youtube.com/watch?v=dzCuwjHFd7M&list=RDdzCuwjHFd7M&start_radio=1&t=3353s 
+
+## My favourite (or most cursed) plot
+
+Have you ever heard about a sankey plot (not a fan)
