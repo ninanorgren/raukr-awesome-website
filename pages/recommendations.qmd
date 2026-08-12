@@ -15,4 +15,5 @@ keep both sides when resolving. 📖
 
 - 📄 **Paper** — *"Tidy Data" (Wickham, 2014)* — Maria — will change how you store data forever.
 - 🎧 **Podcast** — *Not So Standard Deviations* — Johan — stats chat that doesn't put you to sleep.
+- 👩‍💻 **MOOC** — *"Learning how to learn"* — Ale — learn how to learn, and learn how to learn better.
 - *(type: paper / book / podcast / package)* — ***title*** — *(your name)* — *(why in one line)*
