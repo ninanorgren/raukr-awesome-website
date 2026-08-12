@@ -1,0 +1,24 @@
+---
+title: "Medieval Coder"
+subtitle: "curiosity is key 🧬"
+description: "Happy to be here"
+image: ../images/medievalcoder.jpeg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I'm here to learn more intricate R and gain speed in explorations
+
+## A fun fact
+
+I feel like I'm in a fairytale coding here in Visby
+
+## My favourite (or most cursed) plot
+
+I spent at least 2 full days picking out the colors for it, still use the color combo for other graphs
