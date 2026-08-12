@@ -17,4 +17,4 @@ This is a shared file — expect merge conflicts! `git pull` first, add your row
 |-----|-------|---------------|:------:|
 | Maria | Visby old town café | Saffron bun | ⭐⭐⭐⭐⭐ |
 | Johan | The department kitchen | Whatever is free | ⭐⭐ |
-| *(your name)* | *(where?)* | *(what?)* | *(⭐?)* |
+| David | Please show me | Good croisants| No⭐ |
