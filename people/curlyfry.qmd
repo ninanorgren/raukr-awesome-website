@@ -1,0 +1,24 @@
+---
+title: "Curly Fry"
+subtitle: "PhD Student in Life Sciences"
+description: "Makes people drink coffee for science."
+image: ../images/curly-fry.png
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+---
+
+## About me
+
+I have 100 tabs open at all times. 
+
+## A fun fact
+
+On a mission to try all the flavors at glassmagazinet
+
+## My favourite (or most cursed) plot
+
+No comment
